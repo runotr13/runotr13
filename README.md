@@ -6,7 +6,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:runotr13@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runotr13" alt="runotr13" /> </p>
-## 💻 Frontend
+ 💻 Frontend
 
 
 <a href="#" target="_blank"> <img src="https://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" alt="html" height="60"/> </a>
