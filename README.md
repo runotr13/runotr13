@@ -7,6 +7,8 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runotr13" alt="runotr13" /> </p>
 ## :computer: Frontend
+
+
 <a href="#" target="_blank"> <img src="https://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.sapnesakar.com/img/courses/CSS3.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
@@ -17,6 +19,8 @@
 <a href="#" target="_blank"> <img src="https://avatars.mds.yandex.net/i?id=1b3ca3ad9d737703f03e2f970cc09069-4507542-images-thumbs&n=13" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 ## :computer: Backend
+
+
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" alt="java" width="100"/> </a>
