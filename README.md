@@ -1,5 +1,5 @@
 ## Hi there. I'm Onur...👋
-<center><h1">Front-End Developer | React Developer</h1></center>
+<h1"><center>Front-End Developer | React Developer</center></h1>
 - 🔭 I’m working on frontend and mobile app development (JavaScript | React | Typescript)
 - 🌱 I’m learning backend development (MongoDB | Django)
  
