@@ -1,7 +1,6 @@
 ## Hi there. I'm Onur...👋
 <h1>Front-End Developer | React Developer</h1>
 - 🔭 I’m working on frontend development (JavaScript | React)
-- 🌱 I’m learning backend development (Nodejs || Express.js)
  
 ## 👨👩 Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-karakuzu-728076222/)
