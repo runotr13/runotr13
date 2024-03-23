@@ -3,7 +3,7 @@
 - 🔭 I’m working on frontend development (JavaScript | React)
  
 ## 👨👩 Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-karakuzu-728076222/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurkarakuzu/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:runotr13@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runotr13" alt="runotr13" /> </p>
