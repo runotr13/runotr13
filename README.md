@@ -1,6 +1,6 @@
 ## Hi there. I'm Onur...👋
 <h1>Front-End Developer | Nextjs Developer</h1>
-- 🔭 I have been working as front end developer since 2020 year old.(Nextjs)
+- 🔭 I have been working as front end developer since 2020. (Javascript | React | Nextjs)
  
 ## 👨 Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurkarakuzu/)
