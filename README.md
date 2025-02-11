@@ -5,7 +5,7 @@
 ## 👨 Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurkarakuzu/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:runotr13@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@runotr13)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runotr13" alt="runotr13" /> </p>
 
 ## 💻 Frontend
@@ -33,4 +33,5 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
 <a href="#" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wotzQboYWAfaj-7bvGNIkQ.png" alt="gitHub" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Rj8MpTHHRdR7Bu5Gzd82hw.png" height="50"/> </a> 
