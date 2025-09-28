@@ -54,14 +54,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 My Stats :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=runotr13&show_icons=true&theme=chartreuse-dark" alt="Onur's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runotr13&theme=chartreuse-dark" alt="GitHub streak" height="180"/>
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=runotr13&show_icons=true&theme=chartreuse-dark" alt="Onur's GitHub stats" height="200"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=runotr13&theme=chartreuse-dark" alt="GitHub Contributions" height="200"/>
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runotr13&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runotr13&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="200"/>
 </p>
+
 
