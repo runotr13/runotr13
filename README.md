@@ -55,7 +55,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=runotr13&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runotr13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=runotr13&show_icons=true&theme=chartreuse-dark" alt="Onur's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runotr13&theme=chartreuse-dark" alt="GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runotr13&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180"/>
+</p>
+
