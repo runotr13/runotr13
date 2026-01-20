@@ -4,11 +4,11 @@
 🚀 Passionate Front-End Developer with 4+ years of experience building modern web and mobile applications.  
 💡 Skilled in React, Next.js, and React Native, with a strong focus on creating clean, scalable, and user-friendly interfaces.  
 🌍 Open to collaboration on exciting projects!  
-🌐 **Portfolio:** https://portfolio-onur-projects.vercel.app/
 
 ---
 
-## 👨 Social  
+## 👨 Social
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-onur-projects.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurkarakuzu/)  
 [![Gmail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:runotr13@gmail.com)  
 [![Medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@runotr13)  
